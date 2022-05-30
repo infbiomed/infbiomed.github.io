@@ -4,4 +4,4 @@ title:  Projekt Rozwój metod uczenia maszynowego do wspomagania diagnostyki med
 
 ---
 
-![alt text](img/posterLes.png "Poster")
+![alt text](img/posterLes2.png "Poster")
