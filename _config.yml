@@ -1,1 +1,23 @@
+lang: pl_PL
+title: Zespół Zastosowań Informatyki w Inżynierii Bimedycznej
+
+description: > 
+  Strona Sespołu Zastosowań Informatyki w Inżynierii Biomedycznej
+  
+site:
+  baseurl: "/" 
+  url: "https://infbiomed.iem.pw.edu.pl" 
+
+
 theme: jekyll-theme-minimal
+
+
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+  - jekyll-seo-tag
+  - jekyll-gzip
+  - jekyll-katex
+  - jekyll-scholar
